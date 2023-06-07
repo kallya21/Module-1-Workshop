@@ -1,0 +1,1 @@
+# The code in this repository reads the the calculator_input.txt file then completes the maths calculations line by line and adds up the total of all the results. 
